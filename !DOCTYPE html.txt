@@ -1,0 +1,13 @@
+git clone https://github.com/<tên-tài-khoản-GitHub>/GitProject.git
+cd GitProject
+git add README.md
+git commit -m "Add README.md"
+git push origin main
+GitProject/
+├── README.md
+└── source/
+    ├── index.html
+    └── news.html
+git add source/
+git commit -m "Add source files"
+git push origin main
